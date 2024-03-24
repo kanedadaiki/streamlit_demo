@@ -1,0 +1,20 @@
+h2 {
+    color:aqua;
+    background-color: rgb(108, 175, 0);
+}
+
+button {
+    color:magenta;
+    background-color: blueviolet;
+}
+
+p {
+    color:brown;
+    background: orange;
+}
+
+body {
+    background-color:#000000;
+}
+
+/* #cc55eeであったり#111111のようなものは#c5eであったり、#111のように省略可能 */

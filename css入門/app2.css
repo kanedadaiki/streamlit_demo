@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    text-decoration: blue underline wavy;
+    letter-spacing: 10px;
+    font-size: 100px;
+    font-family: Arial, sans-serif;
+}
+/* font-familyを入れる際は左側から順にpcにあるフォントかどうか試行されるので、最後に、総称ファミリーを入れるとよい　Arialを入れる場合であったらsans Sherifのように */
+a {
+   text-decoration: none; 
+   font-weight: normal;
+}
+
+p {
+    line-height: 2;
+}
